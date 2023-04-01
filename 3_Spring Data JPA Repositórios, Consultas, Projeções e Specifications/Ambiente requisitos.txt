@@ -1,0 +1,11 @@
+-Codigo completo
+https://github.com/alura-cursos/1795-curso-spring-data
+
+-JDK8
+https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.htm
+
+-MariaDB
+https://mariadb.org/download/
+
+-Clinte Banco
+https://dbeaver.io/download/
